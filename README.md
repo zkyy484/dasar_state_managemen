@@ -27,7 +27,6 @@
    - initState(): Method ini digunakan untuk menginisialisasi state. Pada Langkah 11, initState() digunakan untuk menginisialisasi ScrollController yang akan mengatur perilaku scroll dan keyboard pada aplikasi.
    
    - dispose(): Method ini digunakan untuk membersihkan resource ketika widget tidak lagi digunakan1. Pada Langkah 13, dispose() digunakan untuk membersihkan ScrollController agar tidak terjadi kebocoran memori.
--
 
 **B. PRAKTIKUN 2**
 -
@@ -45,6 +44,16 @@
 4. Lakukan capture hasil dari Langkah 9 berupa GIF, kemudian jelaskan apa yang telah Anda buat!
    ![image](https://github.com/user-attachments/assets/a3ba5a99-c6cc-4c02-a7b4-c3daff904ea4)
    - Keterangan: hasilnya tetep sama tidak ada perubahan pada tampilan ui karena pada kode program diatas digunakan untuk memisah antara view dan model, serta menambahkan beberapa tampilan widget sebagai penanda ceklist pada plan yang sudah dibuat.
+  
+**C. PRAKTIKUM 3**
+1. Tambahkan class model yang dibutuhkan sesuai aplikasi PBL kelompok Anda! Bagilah tugas dengan anggota kelompok Anda untuk merancang proses state yang akan dilakukan pada aplikasi kelompok Anda. Lalu terapkan state management pada project kelompok yang telah Anda pelajari melalui praktikum ini.
+2. Anda boleh menggunakan plugin/library pihak ketiga seperti riverpod, BLoC, provider atau lainnya untuk mengelola state pada project kelompok PBL.
+3. Jika telah berhasil sesuai kebutuhan, maka push hasil kontribusi masing-masing anggota kelompok ke repository project PBL. Beri keterangan commit dengan jelas fitur apa saja yang ditambahkan, tiap screen/fitur untuk setiap commit itu lebih baik.
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/f784d415-082a-4be3-bf0e-f1655374d8c1">
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/68d732bb-ebfa-418b-b4e3-a0a7f703b3a6">
+
+
+
    
 
 
